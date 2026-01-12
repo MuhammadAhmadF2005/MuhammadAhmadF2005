@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/muhammad-ahmad-05-ebs-lyc-giki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://vercel.com/muhammad-ahmads-projects-f70ddaa6/portfolio-website/Dm2joBnZzQLkimW8y4b4WkJafMyP" target="_blank">
+  <a href="https://portfolio-website-two-chi-83.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
