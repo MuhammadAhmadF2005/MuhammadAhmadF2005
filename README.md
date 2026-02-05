@@ -20,13 +20,13 @@
 
 ---
 
-### 👨‍💻 **About Me**
+###  **About Me**
 
 I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **Machine Learning** and **Algorithmic Problem Solving**. I build systems that merge mathematical rigor with modern software engineering.
 
 * 🔭 **Current Research:** Solving nonlinear reaction-diffusion equations using **PINNs** & **PyTorch**.
 * 🌱 **Currently Learning:** Neural Net architecture and 3D graphics in development.
-* ⚡ **Fun Fact:** I’ve solved **150+ LeetCode** problems and dig deep into Number Theory on Project Euler.
+* ⚡ **Fun Fact:** I've solved **150+ LeetCode** problems and dig deep into Number Theory on Project Euler.
 * 🤝 **Open for:** Research Internships in Computational Science & AI.
 
 ---
@@ -102,15 +102,11 @@ I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **
 
 ---
 
-### 📊 **GitHub Analytics**
+###  **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/MuhammadAhmadF2005" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/MuhammadAhmadF2005" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadF2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadF2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
