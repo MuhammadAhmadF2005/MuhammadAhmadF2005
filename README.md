@@ -25,8 +25,7 @@
 I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **Machine Learning** and **Algorithmic Problem Solving**. I build systems that merge mathematical rigor with modern software engineering.
 
 * Current Research: Solving nonlinear reaction-diffusion equations using **PINNs** & **PyTorch**.
-* Currently Learning: Neural Net architecture and 3D graphics in development.
-* Fun Fact: I've solved **150+ LeetCode** problems and dig deep into Number Theory on Project Euler.
+* Currently Learning : Full Stack development.
 * Open for: Research Internships in Computational Science & AI.
 
 ---
