@@ -12,10 +12,6 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ahmad-05-ebs-lyc-giki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-website-two-chi-83.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
@@ -30,13 +26,7 @@ I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **
 
 ---
 
-### Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,react,mysql,git,css&theme=dark" alt="Tech Stack" />
-</div>
-
----
 
 ### GitHub Analytics
 
