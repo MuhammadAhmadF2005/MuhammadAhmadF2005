@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>A passionate ML and Computational Science Student from Pakistan</h3>
+  <h3>A passionate ML and Computater Science Student from Pakistan</h3>
 </div>
 
 <p align="center">
@@ -18,12 +18,7 @@
 
 ### About Me
 
-I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **Machine Learning** and **Algorithmic Problem Solving**. I build systems that merge mathematical rigor with modern software engineering.
-
-* Current Research: Solving nonlinear reaction-diffusion equations using **PINNs** & **PyTorch**.
-* Currently Learning : Full Stack development.
-* Open for: Research Internships in Computational Science & AI.
-
+I am a Computer Science Undergraduate at **GIKI** with a specialized focus on **Machine Learning**. I build systems that merge mathematical rigor with modern software engineering.
 ---
 
 
