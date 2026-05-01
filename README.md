@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>A passionate ML and Computater Science Student from Pakistan</h3>
+  <h3>A passionate ML and Computer Science Student from Pakistan</h3>
 </div>
 
 <p align="center">
