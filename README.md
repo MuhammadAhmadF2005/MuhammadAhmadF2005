@@ -1,23 +1,34 @@
 # muhammad ahmad
 
-cs undergrad @ giki · ml research · karachi, pakistan
+cs undergrad @ giki · karachi, pakistan  
+researching physics-informed neural networks. building things when the research needs a frontend.
 
 ---
 
-i work at the intersection of differential equations and neural networks — specifically physics-informed neural networks (PINNs). three papers in progress, two targeting ieee venues. also build full-stack tools when the research needs a frontend.
-
-**current work**
+**current**
+- data intern @ [sentient ai](https://www.thesentientai.tech/) — data pipelines & agent deployment
 - co-authoring a survey on PINNs (under review)
-- working as a data intern at https://www.thesentientai.tech/
 
-**stack i reach for**
-- research: pytorch, numpy, scipy, latex
-- web: react, fastapi, supabase, docker
-- systems: c/c++, risc-v assembly, linux
+**selected projects**
 
-**other things that are true**
-- built [faisalengineering.com.pk](https://faisalengineering.com.pk) — yes, for my family's manufacturing business
-- competitive programmer on good days, debugger of my own terrible code on most days
+| project | what it is | stack |
+|---|---|---|
+| [autoship](https://github.com/MuhammadAhmadF2005/AutoShip) | containerized code analysis dashboard, live on aws ec2 | fastapi · docker · github actions |
+| [gikigo](https://github.com/HaiderAliqnt/Delivery-Service) | campus p2p delivery app | react · node · postgresql |
+| [jarvis](https://github.com/MuhammadAhmadF2005) | self-hosted personal ai assistant w/ discord bot | fastapi · sqlite · gemini · oracle cloud |
+| [faisal engineering](https://faisalengineering.com.pk) | corporate site for a 40-person manufacturing business | react · vite · vercel |
+
+**stack**
+- ml/research: pytorch · numpy · scipy · latex
+- web: react · fastapi · supabase · docker
+- systems: c/c++ · risc-v · linux
+
+---
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github)](https://github.com/MuhammadAhmadF2005)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadF2005&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e)](https://github.com/MuhammadAhmadF2005)
+
+[![streak](https://streak-stats.demolab.com?user=MuhammadAhmadF2005&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/MuhammadAhmadF2005)
 
 ---
 
