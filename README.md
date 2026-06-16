@@ -6,8 +6,8 @@ researching physics-informed neural networks. building things when the research 
 ---
 
 **current**
-- building delta based systems for Industrial HMI
-- training a model to detect anomalies before breaks in production 
+- building delta based systems for Industrial HMIs
+- training a model to detect anomalies before breaks in industrial operations
 - co-authoring a survey on PINNs (under review)
 
 **selected projects**
