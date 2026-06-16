@@ -6,7 +6,8 @@ researching physics-informed neural networks. building things when the research 
 ---
 
 **current**
-- data intern @ [sentient ai](https://www.thesentientai.tech/) — data pipelines & agent deployment
+-building delta based systems for Industrial HMI
+-training a model to detect anomalies before breaks in production 
 - co-authoring a survey on PINNs (under review)
 
 **selected projects**
