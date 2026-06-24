@@ -17,7 +17,7 @@ researching physics-informed neural networks. building things when the research 
 | [autoship](https://github.com/MuhammadAhmadF2005/AutoShip) | containerized code analysis dashboard, live on aws ec2 | fastapi · docker · github actions |
 | [gikigo](https://github.com/HaiderAliqnt/Delivery-Service) | campus p2p delivery app | react · node · postgresql |
 | [jarvis](https://github.com/MuhammadAhmadF2005) | self-hosted personal ai assistant w/ discord bot | fastapi · sqlite · gemini · oracle cloud |
-| [faisal engineering](https://faisalengineering.com.pk) | corporate site for a 50-person manufacturing business | react · vite · vercel |
+| [faisal engineering](https://faisalengineering.com.pk) | corporate site for a 50-person manufacturing business | react · vite · vercel · supabase |
 
 **stack**
 - ml/research: pytorch · numpy · scipy · latex
