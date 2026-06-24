@@ -26,9 +26,9 @@ researching physics-informed neural networks. building things when the research 
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&count_private=true&include_all_commits=true)](https://github.com/MuhammadAhmadF2005)
+[![github stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&count_private=true)](https://github.com/MuhammadAhmadF2005)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadF2005&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&hide=jupyter%20notebook,html)](https://github.com/MuhammadAhmadF2005)
-[![streak](https://streak-stats.demolab.com?user=MuhammadAhmadF2005&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&count_private=true)](https://github.com/MuhammadAhmadF2005)
+[![streak](https://streak-stats.demolab.com?user=MuhammadAhmadF2005&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/MuhammadAhmadF2005)
 
 ---
 
