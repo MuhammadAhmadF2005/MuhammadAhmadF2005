@@ -1,7 +1,7 @@
 # muhammad ahmad
 
-cs undergrad @ giki 
-karachi, pakistan  
+cs undergrad @ giki  
+karachi, pakistan
 researching physics-informed neural networks. building things when the research needs a frontend.
 
 ---
