@@ -30,7 +30,7 @@ researching physics-informed neural networks. building things when the research 
 
 [![github stats](https://readme-stats-olive-eta.vercel.app/api?username=MuhammadAhmadF2005&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github&count_private=true)](https://github.com/MuhammadAhmadF2005)
 [![top langs](https://readme-stats-olive-eta.vercel.app/api/top-langs/?username=MuhammadAhmadF2005&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&hide=jupyter%20notebook,html)](https://github.com/MuhammadAhmadF2005)
-[![streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmadF2005&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/MuhammadAhmadF2005)
+
 ---
 
 [email](mailto:istrikepro13ahmadfaisal@gmail.com) · [linkedin](https://www.linkedin.com/in/muhammad-ahmad-05-ebs-lyc-giki/)
