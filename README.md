@@ -10,6 +10,7 @@ researching physics-informed neural networks. building things when the research 
 - data intern @[thesentientai.tech](https://www.thesentientai.tech)
 - building delta based systems for Industrial HMIs
 - training a model to detect anomalies before breaks in industrial operations
+- published a paper on PINNs for battery health on IEEE ICET
 - co-authoring a survey on PINNs (under review)
 
 **selected projects**
